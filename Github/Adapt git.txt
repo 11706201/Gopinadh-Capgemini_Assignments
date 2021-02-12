@@ -1,0 +1,29 @@
+Git helps us manage our project files.It could be anything.
+
+History
+Git keeps track every change to our projecct
+Gits show what we have channged in our project... eeven after long time
+
+Colloboration
+
+It helps in sharing files  whenever we do any changes it could helps in update both files.
+Git makes colloboration more easy.Git merges everyones changes.
+
+Feauture branches:
+
+Git tracks the branches seperately.
+
+Git helps in manage files,helpfnul in colloboration.
+
+Git is opensourse.developed by Linux developer
+
+Benefits of GIT:
+It is a version control system
+1.Distributed Source control system
+it does not fully depend on central system.
+2.Scakes massively
+3.It is free
+4.Most operations are local
+5.Local community
+
+Commit:
